@@ -5,7 +5,7 @@
   
 
 ### 模块冲突说明
-1. [Hide My Applist](https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist)模块里的“Activity启动保护”会导致部分应用拦截异常，需在设置里面启用“**禁用Activity启动保护**”选项
+1. [Hide My Applist](https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist)模块里的“Activity启动保护”功能会导致部分应用拦截异常，需在设置里面启用“**禁用Activity启动保护**”选项
   
 ### 自定义规则说明
 语法规则：`标识符  调用者  目标者`  
