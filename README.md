@@ -32,5 +32,5 @@ ask … …
 #### 少数品牌机型适配计划
 捐赠20元在github反馈以优先安排品牌机型适配，目前以主流大众使用的手机为适配标准
 
-|![pic_20240730011109](https://github.com/user-attachments/assets/6c49a861-8faf-4fa7-be59-cddabc0d941c)|![Screenshot_20240910_Activity链式启动管理](https://github.com/user-attachments/assets/b040fc11-623b-45c0-b100-cfa8b7e07c7d)|
+|<img width="1080" height="2460" alt="Screenshot_20260330-212924_Activity启动链管理" src="https://github.com/user-attachments/assets/10488de3-7aad-48ad-ad95-419c9ad1d347" />|<img width="1080" height="2460" alt="Screenshot_20260330-212534_Activity启动链管理" src="https://github.com/user-attachments/assets/c021d18e-c675-48b1-a059-b35b6e94d279" />|
 |:---:|:---:|
